@@ -1,2 +1,2 @@
 # brinquedo_mvc
-Teste para depoy
+Projeto didático para Spring MVC Web estático.
